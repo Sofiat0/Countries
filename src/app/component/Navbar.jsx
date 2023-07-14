@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <nav>
             <ul className="flex justify-between text-xl capitalize h-[100px] bg-sky-700 text-white items-center">
-                <Link href='/All'>
+                <Link href='/'>
                     <li>All</li>
                 </Link>
 
